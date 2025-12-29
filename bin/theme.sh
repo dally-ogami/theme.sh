@@ -6132,20 +6132,21 @@ mono-amber
 1: #a74600
 2: #c55e00
 3: #e97800
-4: #ffac1c
-5: #ffc864
-6: #ffe09c
+4: #9f4b00
+5: #f2b541
+6: #ffd27a
 7: #fff3cc
 8: #502400
 9: #d45e00
 10: #ff8a1a
 11: #ffc24d
-12: #ffd97a
+12: #c7650a
 13: #ffecad
 14: #fff4d2
 15: #fffdf0
-foreground: #ffe6b3
+foreground: #ffb000
 background: #2b1900
+cursor: #ffbf40
 cursor: #ffcc66
 
 mono-cyan
