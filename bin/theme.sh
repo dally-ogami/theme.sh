@@ -6146,7 +6146,6 @@ mono-amber
 15: #fffdf0
 foreground: #ffb000
 background: #2b1900
-cursor: #ffbf40
 cursor: #ffcc66
 
 mono-cyan
