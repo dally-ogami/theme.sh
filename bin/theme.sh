@@ -6128,25 +6128,25 @@ background: #120b0d
 cursor: #f7d66a
 
 mono-amber
-0: #402500
-1: #ff9400
-2: #ff9400
-3: #ff9400
-4: #ff9400
-5: #ff9400
-6: #ff9400
-7: #ff9400
-8: #ff9400
-9: #ff9400
-10: #ff9400
-11: #ff9400
-12: #ff9400
-13: #ff9400
-14: #ff9400
-15: #ff9400
-foreground: #ff9400
+0: #241000
+1: #a74600
+2: #c55e00
+3: #e97800
+4: #ffac1c
+5: #ffc864
+6: #ffe09c
+7: #fff3cc
+8: #502400
+9: #d45e00
+10: #ff8a1a
+11: #ffc24d
+12: #ffd97a
+13: #ffecad
+14: #fff4d2
+15: #fffdf0
+foreground: #ffe6b3
 background: #2b1900
-cursor: #ff9400
+cursor: #ffcc66
 
 mono-cyan
 0: #003340
